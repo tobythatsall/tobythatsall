@@ -2,6 +2,6 @@
 - 👀 I’m interested in:
 - Becoming a software dev.
 - 🌱 I’m currently learning:
-- CSS, and I want to learn JavaScript, Java, Swift, Kotlin and GDScript
+- JavaScript, and I want to learn Java, Swift, Kotlin and C#
 - 📫 How to reach me:
 - Vist my website at [tobysblog.me](https://tobysblog.me)
